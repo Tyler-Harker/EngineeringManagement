@@ -63,3 +63,6 @@ Interview targeted towards understanding a candidates thought process through gi
 ### Description
 ### Goals
 ### Topics
+### Things that are being looked for
+1. Flexible to changing process
+2. Great Communication
